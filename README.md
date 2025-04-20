@@ -1,4 +1,4 @@
-# Linux-web-C-
+# Linux-web服务器（C语言）
 主要练习Linux环境下的系统编程和网路编程
 ### 编译项目
 
